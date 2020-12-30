@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+## I`m a P.N.U. student who want be a software developer. 💻
+### (P.N.U. means my university, Pusan National University.)
+* I major in Python, C++, etc. 😜
+# 
+### 📫 How to reach me
+* Instagram : @tini_min
 
 <!--
 **tini-min/tini-min** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
