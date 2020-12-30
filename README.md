@@ -1,10 +1,11 @@
-## Hi there 👋
-## I`m a P.N.U. student who want be a software developer. 💻
-### (P.N.U. means my university, Pusan National University.)
-* I major in Python, C++, etc. 😜
-# 
+## Hi there 👋<br>I`m a P.N.U. student who want be a software developer. 💻
+* (P.N.U. means my university, Pusan National University.)
+## I major in Python, C++, etc. 😜<br>
+![My github stats](https://github-readme-stats.vercel.app/api?username=tini-min)<br>
 ### 📫 How to reach me
-* Instagram : @tini_min
+* Instagram : @tini_min<br><br>
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftini-min%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 <!--
 **tini-min/tini-min** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
