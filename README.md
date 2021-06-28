@@ -1,7 +1,13 @@
 ## Hi there 👋<br>I`m a P.N.U. student who want be a software developer. 💻
 - P.N.U. means my university, Pusan National University.
-## I major in Python, C++, etc. 😜<br>
+## I major in Python, C++, etc. <br>
 ![My github stats](https://github-readme-stats.vercel.app/api?username=tini-min)<br>
+
+### 🧰 My languages and tools
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tini-min&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
 ### 📫 How to reach me
 * Instagram : [@tini_min](https://www.instagram.com/tini_min/)
 <br><br>
